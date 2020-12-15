@@ -1,0 +1,12 @@
+{
+  "name": "stripe-checkout-netlify-serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Siarhei Bautrukevich",
+  "license": "ISC"
+}
